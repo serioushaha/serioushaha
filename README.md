@@ -1,13 +1,7 @@
-### Hi there 👋
-- 既然你诚心诚意的问了，
-- 我就大发慈悲的告诉你！
-- 为了防止世界被破坏；
-- 为了守护世界的和平；
-- 贯彻爱与真实的邪恶，
-- 可爱又迷人的正派角色。
-- 张雷！
-- 我是穿梭在极寒与酷热的福州大学的学生，白洞，白色的明天在等着我。
-- 就是这样，喵~
+### Hi there 😄
+- 我是张雷，福州大学2018级本科生。
+- 希望可以在这里学到更多有趣的东西。
+- 邮箱1094359991@qq.com
 <!--
 **serioushaha/serioushaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
